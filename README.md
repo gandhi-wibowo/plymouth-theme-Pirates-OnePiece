@@ -8,6 +8,7 @@ And here is the result.
 ## NOTE :
 ```
 All of material in this Theme is NOT mine.
+DIWYOR
 ```
 ## How To Install ?
 ```
